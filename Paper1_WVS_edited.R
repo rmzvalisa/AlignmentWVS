@@ -1,4 +1,4 @@
-setwd("/Users/alisa/Desktop/Research/Religiosity all")
+
 # Data and libraries ----------------------------------------------------
 
 library(car)  
@@ -1488,7 +1488,7 @@ kable(table_mgcfa_WVS7) %>%
 
 model_names_WVS7 <- c("Model 1 WVS7", "Model 2 WVS7", "Model 3 WVS7")
 for (i in 1:length(model_names_WVS7)) {
-  directory <- paste0("/Users/alisa/Desktop/Research/Religiosity all/Analysis/Alignment 5/", model_names_WVS7[i])
+  directory <- paste0("add your path to the folder here/Alignment/", model_names_WVS7[i])
   folder <- dir.create(directory)
 }
 
