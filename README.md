@@ -1,7 +1,7 @@
 # AlignmentWVS
-This repository hosts the code for reproducing the SMR paper on the WVS data: Remizova A., Rudnev M., Davidov E. (2022) In search of a comparable measure of generalized individual religiosity in the World Values Survey. Sociological Methods and Research, 1-33. doi: 10.1177/00491241221077239 
+This repository hosts the code for reproducing the SMR paper on the WVS data: Remizova A., Rudnev M., Davidov E. (2022) In search of a comparable measure of generalized individual religiosity in the World Values Survey. Sociological Methods and Research, 1-33. [doi: 10.1177/00491241221077239](https://doi.org/10.1177/00491241221077239) 
 
-All results can be found in the paper and at the OSF repository those link is provided in the paper: https://osf.io/ru4sh 
+All results can be found in the paper and at the [OSF repository](https://osf.io/ru4sh) those link is provided in the paper 
 
 Abstract
 
